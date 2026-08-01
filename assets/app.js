@@ -12,30 +12,30 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mis XV | Sofia Montes",
+    "pageTitle": "Nuestros XV años | Valeria & Valentina",
     "ogTitle": "",
     "ogDescription": "Acompáñanos a celebrar este día tan especial"
   },
   "event": {
-    "label": "Mis XV",
-    "celebrantName": "Sofia Montes",
-    "eventDate": "2027-03-11T15:33",
-    "eventEnd": "2027-03-11T23:11",
+    "label": "Nuestros XV años",
+    "celebrantName": "Valeria y Valentina",
+    "eventDate": "2026-08-22T17:00",
+    "eventEnd": "2026-07-22T23:59",
     "timeZone": "America/Mexico_City",
     "eventLocation": "Top Salón Obispado",
     "rsvpPhone": "5550591264"
   },
   "theme": {
-    "bgTop": "#a86570",
-    "bgMid": "#df95a0",
-    "bgBottom": "#a86570",
+    "bgTop": "#ffc2d5",
+    "bgMid": "#e9afc1",
+    "bgBottom": "#c97e98",
     "gold500": "#f2c06f",
     "particleColor": "#f2c06f",
     "text": "#ffffff",
-    "muted": "#f0c4b7",
+    "muted": "#ffe27a",
     "bodyFont": "Cormorant Garamond",
-    "scriptFont": "Dancing Script",
-    "displayFont": "Cormorant Garamond"
+    "scriptFont": "Cormorant Garamond",
+    "displayFont": "Great Vibes"
   },
   "images": {
     "hero": "FPrincipal.jpg",
@@ -53,59 +53,59 @@
     ]
   },
   "story": {
-    "title": "Mi historia",
-    "paragraph1": "Hoy celebro no solo mis 15 años, sino cada sonrisa que iluminó mi camino, cada aprendizaje que fortaleció mi corazón y cada sueño que, con amor y esperanza, me ha traído hasta este momento tan especial de mi vida.",
-    "paragraph2": "Aquí termina un capítulo lleno de recuerdos que atesoraré por siempre y comienza uno nuevo, donde la ilusión, la luz y los sueños por cumplir marcan el inicio de todo lo que está por venir.",
+    "title": "Nuestra historia",
+    "paragraph1": "Hoy celebramos no solo nuestros 15 años, sino cada sonrisa que iluminó nuestros caminos, cada aprendizaje que fortaleció nuestros corazones y cada sueño que, con amor y esperanza, nos ha traído juntas hasta este momento tan especial de nuestras vidas.",
+    "paragraph2": "Hoy termina un capítulo lleno de recuerdos que atesoraremos por siempre y comienza uno nuevo, donde la ilusión, la luz y los sueños por cumplir marcan el inicio de todo lo maravilloso que está por venir.",
     "showImage": true
   },
   "family": {
-    "parentsEyebrow": "En compañía de mis padres",
-    "parentsNamesHtml": "Adriana López Hernández<br>&amp;<br>Javier Montes Ramírez",
-    "parentsInviteText": "Tenemos el honor de invitarles a celebrar mis XV años.",
-    "godparentsEyebrow": "Mis padrinos",
-    "godparentsNamesHtml": "Gabriela Ruiz Mendoza<br>&amp;<br>Alejandro Hernández García"
+    "parentsEyebrow": "En compañía de nuestros padres",
+    "parentsNamesHtml": "Norma Irene Garza Reyes<br>&amp;<br>Erik Antonio Hernandez Barron",
+    "parentsInviteText": "Tenemos el honor de invitarles a celebrar nuestros XV años.",
+    "godparentsEyebrow": "Nuestros padrinos",
+    "godparentsNamesHtml": "Blanca Garza<br>&amp;<br>Eliseo del Ángel"
   },
   "ceremony": {
     "title": "Ceremonia",
-    "time": "15:30 hrs",
-    "place": "Parroquia del Sagrado Corazón de Jesús",
-    "mediaMode": "preview",
+    "time": "17:00 hrs",
+    "place": "Parroquia Exaltación de la Santa Cruz",
+    "mediaMode": "icon",
     "iconSrc": "cereminia.png",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1784406042559!5m2!1ses-419!2smx!6m8!1m7!1sW1KCTr9gtixxUy_1R9Ew2w!2m2!1d25.57659913575704!2d-103.5004368052986!3f202.70293243660157!4f15.440215328659107!5f1.7540701999762476",
+    "mapEmbed": "",
     "photoSrc": "",
-    "mapLink": "https://maps.app.goo.gl/zTPBsYBQpmymGXzX6"
+    "mapLink": "https://maps.app.goo.gl/"
   },
   "reception": {
     "title": "Recepción",
-    "time": "17:00 hrs",
-    "place": "Centro de Convenciones Posada del Río",
-    "mediaMode": "preview",
+    "time": "19:30 hrs",
+    "place": "María Isabel Eventos",
+    "mediaMode": "icon",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/DwvQGpkTec4dTeVr8",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1784406356581!5m2!1ses-419!2smx!6m8!1m7!1sSGFER0nSRDCKnO10adm2DA!2m2!1d25.55719968234142!2d-103.4943993146966!3f68.19951991550872!4f17.272107396622715!5f0.4000000000000002",
+    "mapLink": "https://maps.app.goo.gl/",
+    "mapEmbed": "",
     "photoSrc": ""
   },
   "timeline": {
     "items": [
       {
-        "time": "15:30 hrs",
-        "title": "Ceremonia",
-        "desc": "Parroquia del Sagrado Corazón de Jesús."
-      },
-      {
         "time": "17:00 hrs",
-        "title": "Recepción",
-        "desc": "Centro de Convenciones Posada del Río."
+        "title": "Ceremonia",
+        "desc": "Parroquia Exaltación de la Santa Cruz"
       },
       {
-        "time": "18:00 hrs",
-        "title": "Comida",
-        "desc": "Un momento para brindar y compartir."
+        "time": "19:30 hrs",
+        "title": "Recepción",
+        "desc": "María Isabel Eventos"
       },
       {
         "time": "20:00 hrs",
         "title": "Vals",
-        "desc": "Presentación de Sofia."
+        "desc": "Presentación de Valeria & Valentina "
+      },
+      {
+        "time": "21:00 hrs",
+        "title": "Cena",
+        "desc": "Un momento para brindar y compartir."
       }
     ]
   },
@@ -116,7 +116,7 @@
   "dressCode": {
     "title": "Dress Code",
     "value": "Formal",
-    "note": "Rosa reservado para la quinceañera."
+    "note": "Rosa reservado para las festejadas."
   },
   "gifts": {
     "title": "Opciones de regalo",
@@ -150,7 +150,7 @@
   },
   "rsvp": {
     "showGuestCount": true,
-    "maxGuests": 6
+    "maxGuests": 8
   },
   "sections": {
     "story": true,
@@ -163,7 +163,7 @@
     "gallery": true,
     "dress": true,
     "rsvp": true,
-    "gifts": true,
+    "gifts": false,
     "agenda": true,
     "album": false,
     "closing": true
@@ -195,8 +195,7 @@
     "ctaLabel": "Contáctanos",
     "ctaHref": "https://wa.me/525550591264?text=Hola%21%20Quiero%20una%20invitaci%C3%B3n%20digital%20con%20estilo%20elegante%20y%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n."
   }
-}
-      
+}      
       ;
 
     let EVENT_DATE = new Date(INVITATION_CONFIG.event.eventDate);
